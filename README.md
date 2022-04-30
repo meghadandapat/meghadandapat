@@ -5,7 +5,7 @@
 <h3>About Me</h3>
 
 <p>
-I am a third year Undergraduate studying Information technology. I enjoy web development and I'm passionate about building meaningful projects. Currently I am learning App development using React Native. When not on VSCode I like jamming to spotify playlists and binge watching tv shows.
+I am a third year Undergraduate studying Information technology. I enjoy web development and I'm passionate about building meaningful projects. I also have some experience with App development using React Native. When not on VSCode I like jamming to spotify playlists and binge watching tv shows.
 <p>
 <h3>Technologies I have worked with</h3>
 
