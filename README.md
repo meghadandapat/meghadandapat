@@ -5,7 +5,7 @@
 <h3>About Me</h3>
 
 <p>
-I am a Full Stack Developer having an experience of building web and mobile applications using technologies like Javascript, ReactJS, NodeJS, React Native. I strive to make the web a beautiful place.
+I am a Full Stack Developer having an experience of building web and mobile applications using technologies like Javascript, ReactJS, NodeJS and React Native. I strive to make the web a beautiful place.
 <p>
 <h3>Technologies I have worked with</h3>
 
